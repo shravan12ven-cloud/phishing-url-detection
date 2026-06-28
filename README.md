@@ -154,3 +154,5 @@ phishing-url-detection/
 ## ⚙️ Working Flow
 
 ![Working Flow](images/machine-learning-flow.png)
+
+<img src="phishing-detection-banner.png" width="100%">
