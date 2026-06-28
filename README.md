@@ -129,3 +129,15 @@ GTU SBTP 2026 – Cyber Security Project
 Thanks to **GTU** and **IBM SkillsBuild** for providing this learning opportunity.
 
 ## ⭐ If you like this project, don't forget to Star this repository.
+
+phishing-url-detection/
+│── README.md
+│── project.ipynb
+│── phishing.csv
+│── project.pptx
+│── requirements.txt
+│── images/
+│     ├── banner.png
+│     ├── dataset.png
+│     ├── output.png
+│     └── confusion_matrix.png
