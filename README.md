@@ -15,3 +15,11 @@ This project checks whether a website URL appears to be safe or suspicious based
 
 ## Subject
 GTU SBTP 2026 - Cyber Security Systems (DI050000011)
+
+## Features
+
+Detect phishing URLs
+Simple Python program
+Easy to use
+
+Last Updated: July 2026
