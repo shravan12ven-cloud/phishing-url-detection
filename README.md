@@ -141,3 +141,31 @@ phishing-url-detection/
 │     ├── dataset.png
 │     ├── output.png
 │     └── confusion_matrix.png
+
+🛡️ Phishing Attacks and Solutions
+
+Phishing Attack| Description| Prevention / Solution
+Email Phishing| Fake emails are used to steal personal information.| Verify the sender's email address and avoid clicking suspicious links.
+Spear Phishing| A targeted attack aimed at a specific person or organization.| Verify requests through trusted communication channels before sharing information.
+Smishing| Phishing through SMS messages.| Do not click links in unknown text messages.
+Vishing| Fraudulent phone calls used to obtain sensitive information.| Never share OTPs, passwords, or banking details over the phone.
+Clone Phishing| A legitimate email is copied and modified with malicious links or attachments.| Check email authenticity and scan attachments before opening them.
+Social Media Phishing| Fake social media pages or messages trick users into revealing information.| Enable Two-Factor Authentication (2FA) and avoid suspicious login links.
+Fake Website Phishing| Fake websites imitate genuine websites to steal credentials.| Check the URL carefully, verify HTTPS, and inspect the domain name.
+QR Code Phishing (Quishing)| Malicious QR codes redirect users to fake websites.| Scan QR codes only from trusted sources and verify the destination URL.
+
+🔒 Best Practices to Prevent Phishing
+
+- Always verify website URLs before entering personal information.
+- Use HTTPS websites whenever possible.
+- Never share passwords, OTPs, or banking details.
+- Enable Two-Factor Authentication (2FA).
+- Keep your operating system, browser, and antivirus software updated.
+- Avoid downloading files or clicking links from unknown sources.
+- Report suspicious emails and phishing websites.
+
+🎯 Project Objective
+
+This project uses Machine Learning to detect phishing URLs and help users identify malicious websites, improving online security and reducing the risk of phishing attacks.
+
+«Think Before You Click — Stay Safe from Phishing! 🛡️»
