@@ -1,1 +1,5 @@
-No external libraries required
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
