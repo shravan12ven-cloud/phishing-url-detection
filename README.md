@@ -23,3 +23,27 @@ Simple Python program
 Easy to use
 
 Last Updated: July 2026
+
+## Features
+
+Detect phishing URLs
+
+Simple Python program
+
+Easy to use
+
+Fast execution
+
+## Project Files
+
+README.md
+
+app.py
+
+requirements.txt
+
+## Author
+
+VEN SHRAVAN KUMAR JEMALBHAI
+
+Government Polytechnic, Vadnagar
