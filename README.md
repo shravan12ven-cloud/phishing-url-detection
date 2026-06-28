@@ -159,5 +159,4 @@ phishing-url-detection/
 <p align="center">
   <img src="images/phishing-detection-banner.png" width="100%">
 </p>
-
 <img src="phishing-detection-banner.png" width="100%">
