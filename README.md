@@ -143,20 +143,4 @@ phishing-url-detection/
 │     └── confusion_matrix.png
 
 
- ## 🖼️ Project Banner
-
-![Phishing Detection](images/phishing-detection-banner.png)
-
-## 🔐 Cyber Security
-
-![Cyber Security](images/cybersecurity-network.png)
-
-## ⚙️ Working Flow
-
-![Working Flow](images/machine-learning-flow.png)
-# 🛡️ Phishing URL Detection System
-
-<p align="center">
-  <img src="images/phishing-detection-banner.png" width="100%">
-</p>
-<img src="phishing-detection-banner.png" width="100%">
+ 
